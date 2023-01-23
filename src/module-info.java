@@ -1,0 +1,2 @@
+module MyJavaSample1 {
+}
